@@ -210,8 +210,8 @@ header {
 }
 
 .body-header-right__img img {
-	max-width: 698px;
-	max-height: 728px;
+	max-width: 100%;
+	max-height: auto;
 	overflow: hidden;
 	padding-right: 40px;
 }
