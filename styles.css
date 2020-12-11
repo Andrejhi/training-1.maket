@@ -203,11 +203,7 @@ justify-content: flex-end;
 	max-height: 728px;
 	overflow: hidden;
 }
-=======
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
+ /*-=---------------------------- Andrej */
 body{
   max-width: 1280px;
 }
@@ -243,4 +239,10 @@ main{
 .about p{
   margin-top: 3vh;
 }
+<<<<<<< HEAD
 >>>>>>> 6565d3b60045192e1f7f5f09f6d89830233378e7
+=======
+.my_comand{
+  display: grid;
+}
+>>>>>>> command
