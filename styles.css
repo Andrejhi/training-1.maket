@@ -38,3 +38,6 @@ main{
 .about p{
   margin-top: 3vh;
 }
+.my_comand{
+  display: grid;
+}
